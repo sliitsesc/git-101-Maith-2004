@@ -9,3 +9,5 @@ def calculate_sum(numbers)
 if __name__ == "__main__":
     numbers = [1, 2, 3, 4, 5]
     calculate_sum(numbers)
+    
+    hdhghg
